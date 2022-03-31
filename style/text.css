@@ -1,0 +1,15 @@
+.text {
+    text-align: center;
+    font-size: 16px;
+}
+
+.text__bold {
+    font-weight: bold;
+}
+
+.heading {
+    text-align: center;
+    font-size: 30px;
+    line-height: 90%;
+    margin: 0;
+}
